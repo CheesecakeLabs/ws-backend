@@ -3,7 +3,7 @@
 Hey there, welcome to the Cheesecake Labs workshop for Back-end (which is much better than front-end)!  
 
 # Next Classes
-* 19/06/17, 20/06/17 and 21/06/17. Our first class, yay!
+* 19/06/17. Our first class, yay!
 
 # Prerequisites
 * Python 3.6.
