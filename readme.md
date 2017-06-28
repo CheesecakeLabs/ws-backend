@@ -17,5 +17,8 @@ Hey there, welcome to the Cheesecake Labs workshop for Back-end (which is much b
 * [João](https://github.com/joaoricardo000)
 * [Jojo](https://github.com/jonatasbaldin)
 
+# Content
+The Python code used in the workshop is on the `command_exaples.py` file.
+
 # Any questions?
 Talk to us on the `#ws-backend-revolution` channel @ Cheesecake Labs Slack team. Or just go ahead and open an issue!
