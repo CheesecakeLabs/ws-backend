@@ -1,0 +1,19 @@
+<html>
+	<head>
+		<title> Meu blog! </title>
+	</head>
+
+	<body>
+		{% for post in posts %}
+			<article>
+				<h2>
+					<a href='/post/{{post.id}}'>
+				 		{{ post.title }} 
+				 	</a>
+			 	</h2>
+				<h3> {{ post.created_at }}</h3>
+				<h3> {{ post.author }} </h3>
+			</article>
+		{% endfor %}
+	</body>
+</html>
